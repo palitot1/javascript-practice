@@ -1,4 +1,4 @@
-# 📚 JavaScript Practice
+#  JavaScript Practice
 
 Este repositório reúne os projetos que desenvolvo enquanto estudo JavaScript.
 
@@ -6,9 +6,9 @@ Criei este espaço para organizar tudo o que venho aprendendo e acompanhar minha
 
 Aqui você vai encontrar desde exercícios mais simples até pequenos sistemas desenvolvidos durante meus estudos.
 
-## 🚀 Projetos
+## Projetos
 
-### 🎓 Student Management System
+###  Student Management System
 
 Sistema para cadastro e gerenciamento de alunos.
 
@@ -22,7 +22,7 @@ Sistema para cadastro e gerenciamento de alunos.
 
 ---
 
-### 📦 Product Management System
+###  Product Management System
 
 Sistema para gerenciamento de produtos e controle de estoque.
 
@@ -33,7 +33,7 @@ Sistema para gerenciamento de produtos e controle de estoque.
 - Busca de informações
 - Organização do código
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - JavaScript
 - Node.js
