@@ -40,6 +40,6 @@ Sistema para gerenciamento de produtos e controle de estoque.
 - Git
 - GitHub
 
-## 🎯 Objetivo
+##  Objetivo
 
 Meu objetivo com este repositório é registrar minha evolução como desenvolvedor. À medida que avanço nos estudos, novos projetos serão adicionados, mostrando os conceitos que estou aprendendo e colocando em prática.
