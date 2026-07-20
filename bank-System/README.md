@@ -28,7 +28,7 @@ node index.js
 
 ## Estrutura do projeto
 
- sistema-bancario/
+ bank-System/
  ├── index.js
  └── README.md
 
